@@ -1,0 +1,20 @@
+14:20:40.724 ID: 1 History of users [1]
+14:20:40.724 ID: 2 Sending request for token
+14:20:40.725 ID: 1 I got request from 2 
+14:20:40.725 ID: 1 Counter state: 1
+14:20:40.726 ID: 1 Token sending to: 2 
+14:20:40.727 ID: 2 I got a token from 1
+14:20:41.228 ID: 2 History of users [1, 2]
+14:20:41.228 ID: 1 Sending request for token
+14:20:41.228 ID: 2 I got request from 1 
+14:20:41.228 ID: 2 Counter state: 4
+14:20:41.228 ID: 2 Token sending to: 1 
+14:20:41.228 ID: 1 I got a token from 2
+14:20:41.731 ID: 1 History of users [1, 2, 1]
+14:20:41.731 ID: 2 Sending request for token
+14:20:41.732 ID: 1 I got request from 2 
+14:20:41.732 ID: 1 Counter state: 5
+14:20:41.732 ID: 1 Token sending to: 2 
+14:20:41.733 ID: 1 Exits 
+14:20:41.733 ID: 2 I got a token from 1
+14:20:42.235 ID: 2 History of users [1, 2, 1, 2]
